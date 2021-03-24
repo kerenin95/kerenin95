@@ -7,7 +7,6 @@
 ## **About Me:**
 
 
-
 ## **Find Me at:**
 [LinkedIn](https://www.linkedin.com/in/weberbencs)  
 
@@ -18,51 +17,36 @@
 
 ## What I'm Up to:  
 
-### **Projects I'm working on:**
+### **Projects I'm currently working on:**
 
-#### X
+#### Python
 ```
-    - [ ]
-    - [ ]
-    - [ ]
-```
-
-#### Y
-```
-    - [ ]
-    - [ ]
-    - [ ]
+    - [ ] [AI Personal Assistant]()
+    - [ ] [Meal Plan Database]()
+    - [ ] [Twitter Stream]()
 ```
 
-#### Z
+#### C#
 ```
-    - [ ]
-    - [ ]
-    - [ ]
+    - [ ] [Roguelike Game]()
+    - [ ] [Pomodoro Timer]()
+    - [ ] [RPG Game]()
+```
+
+#### C++
+```
+    - [ ] [Custom Compiler]()
+    - [ ] [Custom Interpreter]()
+    - [ ] [Game Boy Emulator]()
 ```
 
 ### **Topics I'm learning about and am interested in:**
 
-#### X
-```
-    - [ ]
-    - [ ]
-    - [ ]
-```
+#### Python web interfaces (Django)
 
-#### Y
-```
-    - [ ]
-    - [ ]
-    - [ ]
-```
+#### Compiler Design
 
-#### Z
-```
-    - [ ]
-    - [ ]
-    - [ ]
-```
+#### AI with OpenCV
 
 <!--
 **kerenin95/kerenin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
