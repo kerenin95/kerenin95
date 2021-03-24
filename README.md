@@ -1,7 +1,11 @@
 # [**Hello I am Benjamin Weber**](https://www.weberben.com)  :+1:
 
+![Info](../infoImgs/me.jpg)
+
 
 ## **About Me:**
+
+
 
 ## **Find Me at:**
 
