@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello I am Benjamin Weber
+
+## I am a Cybersecurity graduate from Indiana University and Software Developer
+
+### I'm currently interested in 
 
 <!--
 **kerenin95/kerenin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
