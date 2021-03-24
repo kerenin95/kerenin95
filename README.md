@@ -9,41 +9,55 @@
 
 
 ## **Find Me at:**
-
+[LinkedIn](https://www.linkedin.com/in/weberbencs)
+[Personal Website](https://www.weberben.com)
+[IU Luddy Engineering School](https://luddy.indiana.edu/index.html)
 
 
 ## **Projects I'm working on:**
 
 ### X
 ```
-    
+    - [ ]
+    - [ ]
+    - [ ]
 ```
 
 ### Y
 ```
-
+    - [ ]
+    - [ ]
+    - [ ]
 ```
 
 ### Z
 ```
-
+    - [ ]
+    - [ ]
+    - [ ]
 ```
 
 ## **Topics I'm learning about and am interested in:**
 
 ### X
 ```
-    
+    - [ ]
+    - [ ]
+    - [ ]
 ```
 
 ### Y
 ```
-
+    - [ ]
+    - [ ]
+    - [ ]
 ```
 
 ### Z
 ```
-
+    - [ ]
+    - [ ]
+    - [ ]
 ```
 
 <!--
