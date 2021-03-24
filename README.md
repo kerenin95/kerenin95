@@ -9,9 +9,12 @@
 
 
 ## **Find Me at:**
-[LinkedIn](https://www.linkedin.com/in/weberbencs)
-[Personal Website](https://www.weberben.com)
-[IU Luddy Engineering School](https://luddy.indiana.edu/index.html)
+[LinkedIn](https://www.linkedin.com/in/weberbencs)  
+
+[Personal Website](https://www.weberben.com)  
+
+[IU Luddy Engineering School](https://luddy.indiana.edu/index.html)  
+
 
 
 ## **Projects I'm working on:**
