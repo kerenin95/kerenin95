@@ -1,4 +1,4 @@
-# [**Hello I am Benjamin Weber**](https://www.weberben.com)  :+1:
+# [**Hi there, I am Benjamin Weber**](https://www.weberben.com)  :+1:
 
 ![Info about me](/me.jpg)
 
@@ -16,47 +16,48 @@
 [IU Luddy Engineering School](https://luddy.indiana.edu/index.html)  
 
 
+## What I'm Up to:  
 
-## **Projects I'm working on:**
+### **Projects I'm working on:**
 
-### X
-```
-    - [ ]
-    - [ ]
-    - [ ]
-```
-
-### Y
+#### X
 ```
     - [ ]
     - [ ]
     - [ ]
 ```
 
-### Z
+#### Y
 ```
     - [ ]
     - [ ]
     - [ ]
 ```
 
-## **Topics I'm learning about and am interested in:**
-
-### X
+#### Z
 ```
     - [ ]
     - [ ]
     - [ ]
 ```
 
-### Y
+### **Topics I'm learning about and am interested in:**
+
+#### X
 ```
     - [ ]
     - [ ]
     - [ ]
 ```
 
-### Z
+#### Y
+```
+    - [ ]
+    - [ ]
+    - [ ]
+```
+
+#### Z
 ```
     - [ ]
     - [ ]
