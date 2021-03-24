@@ -1,20 +1,42 @@
-# [Hello I am Benjamin Weber :+1:](https://www.weberben.com)
+# [**Hello I am Benjamin Weber**](https://www.weberben.com)  :+1:
 
-## I am a Cybersecurity graduate from Indiana University and Software Developer
 
-### Topics I'm currently interested in: 
+## **About Me:**
 
-### Python
+## **Find Me at:**
+
+
+
+## **Projects I'm working on:**
+
+### X
 ```
     
 ```
 
-### C#
+### Y
 ```
 
 ```
 
-### C++
+### Z
+```
+
+```
+
+## **Topics I'm learning about and am interested in:**
+
+### X
+```
+    
+```
+
+### Y
+```
+
+```
+
+### Z
 ```
 
 ```
