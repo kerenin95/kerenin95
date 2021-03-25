@@ -1,7 +1,7 @@
-![Introduction GIF](/IntroductionGIF.gif)
+![Introduction GIF](/introre.gif)
 
 
-![Info about me](/me.jpg)
+![Info about me]()
 
 
 
