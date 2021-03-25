@@ -1,9 +1,4 @@
-# Benjamin Weber
-![Introduction GIF](/introe.gif)
-
-
-
-
+# Benjamin Weber  
 
 
 ## **About Me:**
