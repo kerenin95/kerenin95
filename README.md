@@ -1,4 +1,5 @@
-# [**Hi there, I am Benjamin Weber**](https://www.weberben.com)  :+1:
+![Introduction GIF](/IntroductionGIF.gif)
+
 
 ![Info about me](/me.jpg)
 
