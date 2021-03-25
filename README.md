@@ -1,7 +1,8 @@
-![Introduction GIF](/introre.gif)
+# Benjamin Weber
+![Introduction GIF](/introe.gif)
 
 
-![Info about me]()
+
 
 
 
@@ -16,38 +17,7 @@
 [IU Luddy Engineering School](https://luddy.indiana.edu/index.html)  
 
 
-## What I'm Up to:  
 
-### **Projects I'm currently working on:**
-
-#### Python
-```
-    - [X] [AI Personal Assistant]()
-    - [ ] [Meal Plan Database]()
-    - [ ] [Twitter Stream]()
-```
-
-#### C#
-```
-    - [ ] [Roguelike Game]()
-    - [ ] [Pomodoro Timer]()
-    - [X] [RPG Game]()
-```
-
-#### C++
-```
-    - [ ] [Custom Compiler]()
-    - [ ] [Custom Interpreter]()
-    - [X] [Game Boy Emulator]()
-```
-
-### **Topics I'm learning about and am interested in:**
-
-#### Python web interfaces (Django)
-
-#### Compiler Design
-
-#### AI with OpenCV
 
 <!--
 **kerenin95/kerenin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
