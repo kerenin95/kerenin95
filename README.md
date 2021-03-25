@@ -22,7 +22,7 @@
 
 #### Python
 ```
-    - [ ] [AI Personal Assistant]()
+    - [X] [AI Personal Assistant]()
     - [ ] [Meal Plan Database]()
     - [ ] [Twitter Stream]()
 ```
@@ -31,14 +31,14 @@
 ```
     - [ ] [Roguelike Game]()
     - [ ] [Pomodoro Timer]()
-    - [ ] [RPG Game]()
+    - [X] [RPG Game]()
 ```
 
 #### C++
 ```
     - [ ] [Custom Compiler]()
     - [ ] [Custom Interpreter]()
-    - [ ] [Game Boy Emulator]()
+    - [X] [Game Boy Emulator]()
 ```
 
 ### **Topics I'm learning about and am interested in:**
