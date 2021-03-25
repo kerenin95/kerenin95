@@ -1,7 +1,4 @@
-# Benjamin Weber  
-
-
-## **About Me:**
+#                                                   Hi, I'm Benjamin Weber  
 
 
 ## **Find Me at:**
